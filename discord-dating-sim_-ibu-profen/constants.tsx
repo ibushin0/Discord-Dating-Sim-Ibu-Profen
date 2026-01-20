@@ -11,7 +11,7 @@ export const GAME_ROUNDS: RoundData[] = [
     choices: [
       { id: '1A', text: "お疲れ！俺も今ビール開けた。ｳｪｰｶﾝﾊﾟｰｲ", nextMessage: "よっしゃ。ｳｪｰｰｰｶﾝﾊﾟｰｰｲ", isBest: true },
       { id: '1B', text: "本当にお疲れ様。毎日投げ出さずに戦ってるプロフェンはマジで偉いよ。よしよし。", nextMessage: "よしよし？W 彼氏面きも。", isBad: true },
-      { id: '1C', text: "またそんな安酒飲んで…。たまには美味しいもの食べに行かない？", nextMessage: "うるせーーなーー。一番コスパいいんだよこれが. 飯は行こう。", isGood: true }
+      { id: '1C', text: "またそんな安酒飲んで…。たまには美味しいもの食べに行かない？", nextMessage: "うるせーーなーー。一番コスパいいんだよこれが。飯は行こう。", isGood: true }
     ]
   },
   {
